@@ -23,6 +23,7 @@ main {
 .pokedex {
     width: 100%;
     max-width: 425px;
+    z-index: 1;
 }
 
 .pokemon_image {
@@ -31,6 +32,7 @@ main {
     bottom: 55%;
     transform: translate(-63%, 20%);
     height: 18%;
+    z-index: 2;
 }
 
 .pokemon_data {
@@ -40,6 +42,7 @@ main {
     top: 56%;
     right: 27%;
     font-size: clamp(8px, 5vw, 25px);
+    z-index: 2;
 }
 
 .pokemon_name {
@@ -52,6 +55,7 @@ main {
     width: 65%;
     top: 65%;
     left: 13.5%;
+    z-index: 2;
 }
 
 .input_search {
@@ -74,6 +78,7 @@ main {
     transform: translate(-56%, 0);
     display: flex;
     gap: 20px;
+    z-index: 2;
 }
 
 .button {
