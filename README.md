@@ -107,7 +107,7 @@ Contributions are welcome! If you'd like to improve this Pokedex:
 
 ## 📝 License
 
-This project is open source and free to use.
+This project is currently unlicensed. Please contact the author for usage permissions.
 
 ## 👤 Author
 
